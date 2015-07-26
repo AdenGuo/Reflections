@@ -2,3 +2,10 @@ What happens when you initialize a repository? Why do you need to do it?
 	Git creat a hidden folder in my working directory and ready to track all the file under my working 
 	directory. Because this action will turn a normal directory into a git repository. I can use git 
 	system in this folder.
+How is the staging area different from the working directory and the repository? What value do you 
+think it offers?
+	Staging area are actually marks of files that indicat files will be committed. It only contain files 
+	in current directory. The repository is the directory that be tracked by the git system. I think staging
+	area act like a buffer for commit. One can add files or remove file from this area depending on the work 
+	flow. Finale commit will be performed on the staging area. So one can orgnize every commit very well by 
+	using this staging area. 
