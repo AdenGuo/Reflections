@@ -1,0 +1,56 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Through a diff command, I can see a differece between a two files which are 
+    before and after its modifications. The bug was introduced by one of these 
+    modifications. By manually inspecting the modifications, I can find how the 
+    bug is introduced.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    When I was about to make a change to me programs. I will copy the entir 
+    working space as a separate folder. The modifications will be made in the 
+    new folders. There folders are named in a chronological order and i can check 
+    the program of corresponding date by the names of folders. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The biggest advantage of automatically saved version control systems is never 
+    worrying about forgetting to save the work. However, there are drawbacks of these 
+    system, there may be exsting space-waste phonomena due to automatically saving. 
+    Because the work may not be changed during a long period. The other disvantage 
+    of these system is the versions system have saved may not be ones that desired. 
+    For example, I have made a major change on my software. But the change is not 
+    immediately saved and the change may be overwrited by my coworkers on the same 
+    program. These disadvantages are avoided by manually chooding when to create a 
+    commit. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think mainly due to purpose of these two kinds of system. The version control 
+    systems treated each file separately are designed for storage and other kind of 
+    systems like git are designed for development. In the first kind of systems, keeping 
+    things stored is important, ease to use and access are at most consideration. 
+    Separated files are easy to store and use. In the second system, tracking changes 
+    of whole program is important. Almost all the programs involved multiple files. So 
+    they are designed to tracking status of many files.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I first use fit log to see all the changes of files. Then I use git diff to compare 
+    different versions of files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I am now more confident to make changes that could break something. Because I 
+    can always revert my changes to previews version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use git to do my project of nano degree from udacuty.
