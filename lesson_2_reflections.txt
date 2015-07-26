@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Git creat a hidden folder in my working directory and ready to track all the file under my working 
+	directory. Because this action will turn a normal directory into a git repository. I can use git 
+	system in this folder.
