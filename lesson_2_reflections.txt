@@ -8,4 +8,7 @@ think it offers?
 	in current directory. The repository is the directory that be tracked by the git system. I think staging
 	area act like a buffer for commit. One can add files or remove file from this area depending on the work 
 	flow. Finale commit will be performed on the staging area. So one can orgnize every commit very well by 
-	using this staging area. 
+	using this staging area.
+How can you use the staging area to make sure you have one commit per logical change?
+	I can check my stage area and compare difference bewtteen working directory and staging area to make sure 
+	the changes I make can orgnize into a logical one.  
