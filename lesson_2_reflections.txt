@@ -18,4 +18,8 @@ What are some situations when branches would be helpful in keeping your history 
 	methods of the programs.
 How do the diagrams help you visualize the branch structure?
 	From the diagrams, I can easily see the history of different versions and their paths of evolution. And I also 
-	can tell from which version I can roll back to a destination. 
+	can tell from which version I can roll back to a destination.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	After merging two branch, one can tracking to either branches which is before merge. And also the work done by 
+	two branches can be merged. The diagram can clearly show the structures of branches. 
+
