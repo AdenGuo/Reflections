@@ -21,5 +21,9 @@ How do the diagrams help you visualize the branch structure?
 	can tell from which version I can roll back to a destination.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	After merging two branch, one can tracking to either branches which is before merge. And also the work done by 
-	two branches can be merged. The diagram can clearly show the structures of branches. 
+	two branches can be merged. The diagram can clearly show the structures of branches.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Git's automatic merging is a time-saving strategy. I can merge two branch with minimual effort by using this method.
+	However, I think there exist some time when ones wants to inspect their different version of program and merge them 
+	by their expertise judgement.
 
