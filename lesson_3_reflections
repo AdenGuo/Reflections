@@ -11,4 +11,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	is like operation of copy. When I want to make a repository local and so a little development around the prorgam. I 
 	would use clone. Branches only exist in one repository. It mean different methods of solving same question. If i am 
 	about to try a new idea on existing program based on what have done in that program. I would develop a new branch 
-	in this repository. 
+	in this repository.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	I think through the last known state of the remote, one can easily check out the differences between local and remote 
+	repositories. And also the fetch action will create a new branch based on the known status of the remote repository in 
+	the local. So the known state of the remote in local is neccessary. 
