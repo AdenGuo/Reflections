@@ -17,4 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 	repositories. And also the fetch action will create a new branch based on the known status of the remote repository in 
 	the local. So the known state of the remote in local is neccessary.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-	I would copy file around and do a tedious document for what I have done. The git and github make collaboration easier. 
+	I would copy file around and do a tedious document for what I have done. The git and github make collaboration easier.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When I was about to try some new method on existing system and I still want the current system  working well. I can try out 
+	different approaches to solve the problem withour worrying about interference. 
